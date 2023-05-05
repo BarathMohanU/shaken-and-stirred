@@ -51,16 +51,16 @@ Dependencies
 Requirements
 
 
-tensorflow-gpu            2.6.0
+tensorflow-gpu==2.6.0
 
-tensorflow-probability    0.14.1
+tensorflow-probability==0.14.1
 
-tensorflow-datasets       4.5.2
+tensorflow-datasets==4.5.2
 
-numpy                     1.19.5
+numpy==1.19.5
 
-scikit-learn              1.1.1
+scikit-learn==1.1.1
 
-opencv-python             4.6.0.66
+opencv-python==4.6.0.66
 
-scikit-image              0.19.3
+scikit-image==0.19.3
